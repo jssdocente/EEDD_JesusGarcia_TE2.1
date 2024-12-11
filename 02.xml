@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <titulo>El Hobbit</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <editorial>Minotauro</editorial>
+        <fecha>1937</fecha>
+        <genero>Fantasía</genero>
+        <precio>15</precio>
+    </libro>
+</libreria>
