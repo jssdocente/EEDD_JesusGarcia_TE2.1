@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <titulo>El fin de la eternidad</titulo>
+        <autor>Isaac Asimov</autor>
+        <editorial>Edhasa</editorial>
+        <fecha>1955</fecha>
+        <genero>Ciencia ficción</genero>
+        <precio>20</precio>
+    </libro>
+</liberia>
