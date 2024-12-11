@@ -16,4 +16,19 @@
         <genero>Fantasía</genero>
         <precio>25</precio>
     </libro>
+    <libro>
+        <titulo>El Hobbit</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <editorial>Minotauro</editorial>
+        <fecha>1937</fecha>
+        <genero>Fantasía</genero>
+        <precio>15</precio>
+    </libro>
+    <libro>
+        <titulo>El hombre bicentenario</titulo>
+        <autor>Isaac Asimov</autor>
+        <editorial>Edhasa</editorial>
+        <fecha>1976</fecha>
+        <genero>Ciencia ficción</genero>
+        <precio>20000</precio>
 </libreria>
