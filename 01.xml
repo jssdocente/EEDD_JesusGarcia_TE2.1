@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <editorial>Editorial Castalia</editorial>
+        <fecha>1605</fecha>
+        <genero>Novela</genero>
+        <precio>20</precio>
+    </libro>
+</libreria>
